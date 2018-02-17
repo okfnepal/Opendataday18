@@ -2,7 +2,7 @@
 URl: http://opendataday18.oknp.org
 
 # About Event Theme
-# # Open Data Day: Data-a-thon for Journalist 
+Open Data Day: Data-a-thon for Journalist 
 Data-a-thon is the event filled with series of key activities like presentation, idea discussion and hands-on workshop.
 
 # Who can Participate
